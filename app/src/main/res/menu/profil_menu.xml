@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menoItemProfile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/menuItemFavorite"
+        android:title="Favorite" />
+    <item
+        android:id="@+id/menuItemComingSoon"
+        android:title="ComingSoon" />
+</menu>
